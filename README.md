@@ -1,10 +1,4 @@
 # AI-In-BlockChain
-
-Roles and Responsibility 
-A.	Sri Somanjali – Project Planning, Requirement Gathering, Project Review.
-B.	Ritin Anand – Documentation and Communication, Evaluation and Testing.
-C.	Sameer – Interpretation of Result, Model Development.
-
  
 Blockchain technology has gained a lot of attention in recent years due to its potential for disrupting various industries. One area where blockchain is being increasingly used is in the field of artificial intelligence (AI). In this report, we will explore the intersection of AI and blockchain and examine how they can complement each other.
 
